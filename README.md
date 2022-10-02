@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Li-Wentao
+# 👋 Howdy! I’m Wentao (Winston) Li!
 - 👀 I’m interested in Federated Learning, Differential Privacy, Edge Computing.
 - 🌱 I’m currently a PhD student in UTHealth, majoring in Biomedical Informatics.
 - 💞️ I’m looking to collaborate on privacy-preserving machine learning.
