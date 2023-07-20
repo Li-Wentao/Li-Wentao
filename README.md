@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on privacy-preserving machine learning.
 - 📫 How to reach me: mentosli@outlook.com
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=Fbqxz0gAAAAJ&hl=en&oi=ao
-- 💾 Personal Website: https://www.wentaoli.net
+- 💾 Personal Website: https://wentaoli.net
 
 <!---
 Li-Wentao/Li-Wentao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
